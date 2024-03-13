@@ -1,3 +1,4 @@
+#a Python library that can be used to construct basic graphical user interface (GUI) applications
 from tkinter import*
 import random
 import time
